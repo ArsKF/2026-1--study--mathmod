@@ -5,10 +5,10 @@ project:
 standalone: true
 self-contained: true
 
-## Julia support
-# engine: julia
-# julia:
-#   exeflags: ["--project=../project"]
+#Julia support
+engine: julia
+julia:
+  exeflags: ["--project=../project/"]
 
 ## Generic options
 lang: ru-RU
@@ -38,6 +38,7 @@ format:
     ### minted support
     # filters:
     #   - minted-quarto
+    fig-format: png
     toc: true
     number-sections: true
     colorlinks: false
