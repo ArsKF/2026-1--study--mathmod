@@ -7,4 +7,4 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Features
 
-* **main:** make course structure ([41c4c38](https://github.com/ArsKF/2026-1--study--mathmod/commit/41c4c380727b955610be61ce1d424277d3acadfa))
+* **lab01:** finish lab01 ([783e3f3](https://github.com/ArsKF/2026-1--study--mathmod/commit/783e3f3ad8dec0d53bd1547fcf215815571d6d42))
